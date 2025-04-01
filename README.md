@@ -1,4 +1,4 @@
-MinecraftAFK/
+## MinecraftAFK/
 │
 ├── src/
 │   ├── __init__.py
