@@ -10,4 +10,17 @@ This software allows you to automate your AFK behavior in Minecraft by moving th
 
 ## Requirements
 - Python 3.6+
-- Install the required libraries using:
+- Install the required files and libraries
+
+
+## Usage
+1. Run the program:
+
+2. Press F7 to activate the AFK mode (moves the mouse and presses the spacebar).
+3. Press ESC to stop the program.
+
+## License
+This project is licensed under the MIT License.
+
+
+python main.py
